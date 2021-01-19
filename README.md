@@ -14,4 +14,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...Twitter-@Gowtham_PB
 - 😄 Pronouns: ...He/him
 - ⚡ Fun fact: ...I am a good chess player
--->
