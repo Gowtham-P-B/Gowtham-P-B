@@ -9,8 +9,8 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...my portfolio website
 - 🌱 I’m currently learning ...web development and graphic design
-- 👯 I’m looking to collaborate on ...other developers in the community
+- 🤝 I’m looking to collaborate with ...other developers in the community
 - 🤔 I’m looking for help with ...web development and graphic design
 - 📫 How to reach me: ...Twitter-@Gowtham_PB
 - 😄 Pronouns: ...He/him
-- ⚡ Fun fact: ...I am a good chess player
+- ⚡ Fun fact: ...I am interested in Astronomy and Finance as well!!!
