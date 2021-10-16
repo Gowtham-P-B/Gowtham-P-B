@@ -13,24 +13,5 @@ I am an Information science undergraduate at <a href="https://sahyadri.edu.in/">
 I love building cool stuff for the web. So always on the look out for new project ideas.I am passionate about tech,astronomy and finance as well :)
 </p>
 
-
-## 📊 My GitHub Stats
-
- ![](https://komarev.com/ghpvc/?username=Gowtham-P-B&color=blue)
- 
-![Gowtham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gowtham-P-B&show_icons=true&theme=vision-friendly-dark)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gowtham-P-B&theme=highcontrast)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
-## 📝 My latest blog posts
-
-[1.How to be productive(Or atleast try to be productive)](https://medium.com/@gowthampb2001/how-to-be-productive-or-at-least-try-to-be-productive-xd-6ac91f004e9e)
-
-## 👀 You can also find me on 
-
-<a href="https://twitter.com/Gowtham_PB" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="GowthamPB-Twitter" /></a>
-<a href="https://leetcode.com/L_Lawlett/" target="blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="GowthamPB-Leetcode" /></a>
-<a href="https://www.linkedin.com/in/gowtham-pb" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="GowthamPB-Linkedin" /></a>
-
 # NOTE: This is my second account. I am not very active in this account. You can visit my main account [here](https://github.com/GowthamPB)
 
