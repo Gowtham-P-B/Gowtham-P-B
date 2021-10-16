@@ -32,3 +32,5 @@ I love building cool stuff for the web. So always on the look out for new projec
 <a href="https://leetcode.com/L_Lawlett/" target="blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="GowthamPB-Leetcode" /></a>
 <a href="https://www.linkedin.com/in/gowtham-pb" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="GowthamPB-Linkedin" /></a>
 
+# NOTE: This is my second account. I am not very active in this account. You can visit my main account [here](https://github.com/GowthamPB)
+
