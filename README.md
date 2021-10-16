@@ -5,7 +5,7 @@
          height="45"
          width="45"> my name is Gowtham P B</h1>
 
-<div></div><div><img src="https://i.pinimg.com/originals/8a/a4/59/8aa4595fb24b6ed585dddac4622b2445.gif" width="400px"></div>
+<div></div><div><img src="https://c.tenor.com/UNTqMDwqh1gAAAAM/hello-hi.gif" width="400px"></div>
 
 <p>
 I am an Information science undergraduate at <a href="https://sahyadri.edu.in/">Sahyadri college of engineering and management</a>. I am a web developer. I am also a member of open source communities like <a href="https://sosc.org.in">Sahyadri Open-source Community</a> and <a href="https://www.eddiehub.org/?r_done=1">EddieHub</a>.
