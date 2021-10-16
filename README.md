@@ -16,11 +16,11 @@ I love building cool stuff for the web. So always on the look out for new projec
 
 ## 📊 My GitHub Stats
 
- ![](https://komarev.com/ghpvc/?username=GowthamPB&color=blue)
+ ![](https://komarev.com/ghpvc/?username=Gowtham-P-B&color=blue)
  
-![Gowtham's GitHub stats](https://github-readme-stats.vercel.app/api?username=GowthamPB&show_icons=true&theme=vision-friendly-dark)
+![Gowtham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gowtham-P-B&show_icons=true&theme=vision-friendly-dark)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GowthamPB&theme=highcontrast)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gowtham-P-B&theme=highcontrast)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 ## 📝 My latest blog posts
 
